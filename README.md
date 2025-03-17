@@ -1,5 +1,4 @@
-![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
-
+![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
 <h1 align="center">Hi 👋, I'm Nadeesha Shalom</h1>
 <h3 align="center">A passionate Software Developer</h3>
@@ -14,7 +13,7 @@
 
 - 👯 I worked on **Simple Mobile application with IoT**
 
-- 🤝 I’m curruntly working on **Web site for Car rental webpage**
+- 🤝 I’m currently working on **Web site for Car rental webpage**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251/](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251/)
 
@@ -38,4 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeeshashalom&show_icons=true&locale=en" alt="nadeeshashalom" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeshashalom&" alt="nadeeshashalom" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeshashalom&" alt="nadeeshashalom" /></p> --> 
+
