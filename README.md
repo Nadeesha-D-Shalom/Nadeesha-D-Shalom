@@ -25,4 +25,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nadeesha-D-Shalom&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nadeesha-shalom-a5a2a4251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadeesha-shalom-a5a2a4251" height="30" width="40" /></a>
+<a href="https://fb.com/nadeesha d shalom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadeesha d shalom" height="30" width="40" /></a>
+<a href="https://instagram.com/nadeesha_d_shalom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadeesha_d_shalom" height="30" width="40" /></a>
+<a href="https://medium.com/@nadeeshashalom1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nadeeshashalom1" height="30" width="40" /></a>
+</p>
