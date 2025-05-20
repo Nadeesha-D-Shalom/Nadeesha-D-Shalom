@@ -36,10 +36,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nadeeshashalom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nadeeshashalom" /></a></p><br><be>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nadeesha-D-Shalom/Nadeesha-D-Shalom/output/dist/snake.svg" alt="Snake animation" />
-</p>
-
-
