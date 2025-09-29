@@ -80,10 +80,10 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/nadeesha-shalom-a5a2a4251"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
-  <a href="https://fb.com/nadeesha d shalom"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/></a>
-  <a href="https://instagram.com/nadeesha_d_shalom"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
-  <a href="https://medium.com/@nadeeshashalom1"><img src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40"/></a>
+  <a href="https://github.com/Nadeesha-D-Shalom"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
+  <a href="https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/></a>
+  <a href="https://www.instagram.com/nadeesha_d_shalom"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100009164177872"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40"/></a>
 </p>
 
 ---
