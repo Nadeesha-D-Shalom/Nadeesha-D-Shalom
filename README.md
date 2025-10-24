@@ -101,9 +101,3 @@
   </a>
 </p>
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Nadeesha-D-Shalom/Nadeesha-D-Shalom/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
