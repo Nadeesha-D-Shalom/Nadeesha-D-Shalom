@@ -175,7 +175,6 @@ class NadeeshaShalom:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nadeesha-d-shalom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeesha-d-shalom&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -184,6 +183,23 @@ class NadeeshaShalom:
 [![GitHub Streak](https://streak-stats.demolab.com?user=nadeesha-d-shalom&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 💬 Most Used Languages
+
+> *Primary languages I work with the most, ordered by proficiency & usage:*
+
+| # | Language | Usage |
+|---|---|---|
+| 🥇 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | ████████████████████ Primary |
+| 🥈 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **Go (Golang)** | ██████████████████░░ Backend Services |
+| 🥉 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React** | ████████████████░░░░ Frontend |
+| 4 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | ██████████████░░░░░░ AI/ML |
+| 5 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | ████████████░░░░░░░░ Web |
+| 6 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP** | ██████████░░░░░░░░░░ Web Backend |
+| 7 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **SQL** | ████████░░░░░░░░░░░░ Databases |
+| 8 | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) **C / C++** | ██████░░░░░░░░░░░░░░ Systems / IoT |
 
 ---
 
