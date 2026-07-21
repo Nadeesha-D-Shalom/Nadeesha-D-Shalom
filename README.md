@@ -145,7 +145,7 @@ print(me.philosophy())
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nadeesha-d-shalom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeesha-d-shalom&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=nadeesha-d-shalom&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
@@ -155,15 +155,29 @@ print(me.philosophy())
 
 <div align="center">
 
-### 🔥 Contribution Snake
+### 🏆 Trophy Case
 
-<!-- snake-animation-start -->
-<img src="https://raw.githubusercontent.com/Nadeesha-D-Shalom/Nadeesha-D-Shalom/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-<!-- snake-animation-end -->
-
-<sub>💡 Snake animates from your live contribution graph — set it up in one click via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action (workflow included below).</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=nadeesha-d-shalom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
+
+<details>
+<summary align="center">⚡ Want an animated contribution snake too? (click to expand)</summary>
+<br/>
+
+The **contribution snake** (a snake that "eats" your commit graph) isn't included above because it needs a one-time GitHub Action setup — embedding it before that runs shows a broken image.
+
+1. In this repo, create `.github/workflows/snake.yml` using the workflow file provided alongside this README
+2. Push it — the action runs automatically and creates an `output` branch containing the SVG
+3. Once that branch exists, add this line back into your README:
+
+```md
+<img src="https://raw.githubusercontent.com/Nadeesha-D-Shalom/Nadeesha-D-Shalom/output/github-contribution-grid-snake.svg" width="100%"/>
+```
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
 
