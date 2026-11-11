@@ -1,154 +1,246 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Nadeesha D. Shalom — Software Engineering, Full-Stack Development, AI and Machine Learning" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%2F+ML+Researcher;Building+Systems+That+Scale" alt="Typing SVG" />
 
-<br />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=36D6A0&center=true&vCenter=true&width=720&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%2F+ML+Researcher;Building+Systems+That+Scale" alt="Software Engineering Undergraduate, Full-Stack Developer, AI/ML Researcher" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nadeesha-D-Shalom)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://nadeesha-d-shalom.github.io/Nadeesha_UI.github.io)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nadeeshashalom1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeeshashalom1@gmail.com)
 
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-102024?style=for-the-badge&logo=linkedin&logoColor=36D6A0)](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251)
-[![GitHub](https://img.shields.io/badge/GitHub-102024?style=for-the-badge&logo=github&logoColor=36D6A0)](https://github.com/Nadeesha-D-Shalom)
-[![Portfolio](https://img.shields.io/badge/Portfolio-102024?style=for-the-badge&logo=firefox&logoColor=36D6A0)](https://nadeesha-d-shalom.github.io/Nadeesha_UI.github.io)
-[![Medium](https://img.shields.io/badge/Medium-102024?style=for-the-badge&logo=medium&logoColor=36D6A0)](https://medium.com/@nadeeshashalom1)
-[![Email](https://img.shields.io/badge/Email-102024?style=for-the-badge&logo=gmail&logoColor=36D6A0)](mailto:nadeeshashalom1@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nadeesha-d-shalom&color=1FAE88&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=nadeesha-d-shalom&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-## About Me
+<br/>
 
-<img src="./assets/profile-panel.svg" alt="Developer profile: Nadeesha D. Shalom, SLIIT undergraduate, Sri Lanka" width="100%" />
+## 👋 About Me
 
 ```python
 class NadeeshaShalom:
     def __init__(self):
-        self.name = "Nadeesha D. Shalom"
-        self.role = "Software Engineering Undergraduate @ SLIIT"
-        self.location = "Sri Lanka"
-        self.email = "nadeeshashalom1@gmail.com"
-        self.focus = ["Full-Stack Development", "AI/ML Research", "System Architecture"]
-        self.currently = "Building an AI-powered LMS with Go, React & Python"
-        self.researching = "Self-Regulating Learning Pressure (SRLP)"
+        self.name         = "Nadeesha D. Shalom"
+        self.role         = "Software Engineering Undergraduate @ SLIIT"
+        self.location     = "Sri Lanka 🇱🇰"
+        self.email        = "nadeeshashalom1@gmail.com"
+        self.focus        = ["Full-Stack Development", "AI/ML Research", "System Architecture"]
+        self.currently    = "Building an AI-powered LMS with Go, React & Python"
+        self.researching  = "Self-Regulating Learning Pressure (SRLP) — a novel AI training algorithm"
         self.ask_me_about = ["Java", "Go", "Python", "Machine Learning", "REST APIs"]
 
     def philosophy(self):
         return "Build systems that are smart, scalable, and solve real problems."
+
+me = NadeeshaShalom()
 ```
 
-## Tech Stack
+<br/>
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | Java · Python · JavaScript · TypeScript · Go · PHP · C · SQL |
-| **Frameworks & Platforms** | React · Spring Boot · Node.js · FastAPI · Gin · Tailwind CSS · Bootstrap |
-| **AI & Machine Learning** | TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · OpenCV |
-| **Databases & Cloud** | MySQL · Microsoft SQL Server · MongoDB · AWS |
-| **Tools & IoT** | Git · Postman · Figma · Arduino · ESP32 |
-
-## Featured Projects
+## 🛠️ Tech Stack
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td valign="top" width="50%">
 
-### Student LMS with AI & ML
-**2025–Present** · React, Go, FastAPI, MySQL, JWT, Ollama
+**Languages**
 
-Industry-grade learning management system featuring role-based authentication (Student, Teacher, Admin, IT-Admin), an LLM-powered academic assistant, modular microservices, and secure middleware validation.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-</td><td width="50%" valign="top">
+**Frameworks & Platforms**
 
-### Self-Regulating Learning Pressure (SRLP)
-**2026** · Python, PyTorch, NumPy, Matplotlib
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-Experimental AI training-stability algorithm using adaptive loss-feedback pressure control and gradient-update regulation. Evaluated using convergence behavior, loss variance, and accuracy trends.
+</td>
+<td valign="top" width="50%">
 
-</td></tr>
-<tr><td width="50%" valign="top">
+**AI & Machine Learning**
 
-### Diabetes Prediction — Logistic Regression
-**2025** · Python, Scikit-learn, Pandas, Seaborn
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-Reported **83.45% accuracy** with class-imbalance handling, feature engineering, and evaluation using ROC-AUC, precision, recall, F1-score, and confusion matrix.
+**Databases & Cloud**
 
-</td><td width="50%" valign="top">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-### Airline Reservation System
-**2025** · Java, Spring Boot, SQL Server, React, Tailwind
+**Tools & IoT**
 
-Flight search, booking, and cancellation with role-based authentication, Spring Data JPA, and an administrative dashboard for flights, passengers, and reservations.
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
 
-</td></tr>
-<tr><td width="50%" valign="top">
-
-### TeaWeb — CEYMOS LANKA
-**2025–2026** · React, PHP, MySQL, Bootstrap, Tailwind
-
-Responsive tea and coconut export showcase hosted on GoDaddy, with an admin CRUD dashboard, image uploads, password recovery, and contact forms.
-
-</td><td width="50%" valign="top">
-
-### More Projects
-
-Explore my additional software engineering, AI/ML, and IoT work.
-
-[View all GitHub repositories](https://github.com/Nadeesha-D-Shalom?tab=repositories)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-## GitHub Analytics
+<br/>
 
-<img src="./assets/github-dashboard.svg" alt="GitHub activity dashboard section heading" width="100%" />
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student LMS with AI & ML
+*Industry-grade LMS with LLM integration · 2025–Present*
+
+**Stack:** React · Go · Python (FastAPI) · MySQL · JWT · Ollama
+
+- JWT auth with role-based access (Student / Teacher / Admin / IT-Admin)
+- LLM-powered academic assistant for contextual Q&A on lessons & assignments
+- Microservice architecture: Go backend, Python AI services, modular React frontend
+- Hardened middleware validation and shared security utilities
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Self-Regulating Learning Pressure (SRLP)
+*Novel AI training-stability algorithm · 2026*
+
+**Stack:** Python · PyTorch · NumPy · Matplotlib
+
+- Designed a training-time algorithm to stabilize learning dynamics
+- Adaptive loss-feedback pressure control regulating gradient updates
+- Improved convergence stability vs. standard training baselines
+- Evaluated via loss variance, convergence behavior & accuracy trends
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Diabetes Prediction — Logistic Regression
+*Clinical ML detection model · 2025*
+
+**Stack:** Python · Scikit-learn · Pandas · Seaborn
+
+- **83.45% accuracy** with tuned recall for diabetic patients
+- Handled class imbalance, feature engineering & preprocessing
+- Evaluated with ROC-AUC, Precision, Recall, F1, Confusion Matrix
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Airline Reservation System
+*Full-stack real-time booking platform · 2025*
+
+**Stack:** Java · Spring Boot · SQL Server · React · Tailwind
+
+- Real-time flight search, booking & cancellation with role-based auth
+- Spring Data JPA for secure, efficient database operations
+- Admin dashboard for flights, passengers & bookings
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍵 TeaWeb — CEYMOS LANKA Showcase
+*Export platform for Ceylon tea & coconut products · 2025–2026*
+
+**Stack:** React · PHP · MySQL · Bootstrap · Tailwind
+
+- Responsive showcase deployed on GoDaddy shared hosting
+- Password-protected admin dashboard with full CRUD
+- Image upload, password recovery & contact form integration
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+**Want to see more?**
+Check out the [full project list on GitHub →](https://github.com/Nadeesha-D-Shalom?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🤖 AI/ML Engineer — Stage 1 & 2 | SLIIT | 2025 |
+| ☕ Java OOP: Object-Oriented Programming | Udemy | 2025 |
+| 🎓 BSc (Hons) Software Engineering *(in progress)* | SLIIT | 2024–Present |
+| 📋 Diploma in Software Engineering | Pioneer Institute | 2020–2022 |
+
+<br/>
+
+## 🏆 Achievements & Activities
+
+- 🏅 **Codefest 2025 Participant** — SLIIT's largest university tech competition (Innovative IoT Category)
+- 🎯 **Subcommittee Member** — Faculty of Computing Student Community (FCSC), SLIIT *(Mar 2025–Present)*
+- 🔨 **15+ personal projects** spanning Java, Go, PHP, MySQL, IoT & embedded systems
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nadeesha-D-Shalom&show_icons=true&hide_border=true&bg_color=102024&title_color=36D6A0&text_color=F5F7F7&icon_color=1FAE88" alt="GitHub account statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeesha-D-Shalom&layout=compact&hide_border=true&bg_color=102024&title_color=36D6A0&text_color=F5F7F7" alt="Most used repository languages" height="170" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nadeesha-d-shalom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeesha-d-shalom&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Nadeesha-D-Shalom&hide_border=true&background=102024&ring=36D6A0&fire=1FAE88&currStreakLabel=36D6A0&sideLabels=F5F7F7&dates=A7B9BB&sideNums=F5F7F7&currStreakNum=F5F7F7" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=nadeesha-d-shalom&theme=tokyonight&hide_border=true" />
 
-<br />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadeesha-D-Shalom&bg_color=102024&color=A7B9BB&line=36D6A0&point=F5F7F7&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeesha-d-shalom&theme=tokyo-night&hide_border=true" />
 
 </div>
 
-> Analytics depend on external services and public GitHub data; private activity and service availability may affect the results.
+<br/>
 
-## Certifications & Education
-
-| Qualification | Institution | Period |
-|:--|:--|:--|
-| AI/ML Engineer — Stage 1 & 2 | SLIIT | 2025 |
-| Java OOP: Object-Oriented Programming | Udemy | 2025 |
-| BSc (Hons) Software Engineering *(in progress)* | SLIIT | 2024–Present |
-| Diploma in Software Engineering | Pioneer Institute | 2020–2022 |
-
-## Achievements & Activities
-
-- **Codefest 2025** — Participant, Innovative IoT Category, SLIIT.
-- **Faculty of Computing Student Community (FCSC)** — Subcommittee Member, SLIIT (March 2025–Present).
-- **15+ personal projects** — Java, Go, PHP, MySQL, AI/ML, IoT, and embedded systems.
-
-## Connect
-
-| Channel | Contact |
-|:--|:--|
-| Email | [nadeeshashalom1@gmail.com](mailto:nadeeshashalom1@gmail.com) |
-| LinkedIn | [nadeesha-shalom-a5a2a4251](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251) |
-| Portfolio | [Personal website](https://nadeesha-d-shalom.github.io/Nadeesha_UI.github.io) |
-| Medium | [@nadeeshashalom1](https://medium.com/@nadeeshashalom1) |
-| Phone | +94 70 7328800 |
+## 📫 Let's Connect
 
 <div align="center">
 
-*"Build systems that are smart, scalable, and solve real problems."*
+| Platform | Link |
+|---|---|
+| 📧 Email | [nadeeshashalom1@gmail.com](mailto:nadeeshashalom1@gmail.com) |
+| 💼 LinkedIn | [nadeesha-shalom-a5a2a4251](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251) |
+| 🌐 Portfolio | [nadeesha-d-shalom.github.io](https://nadeesha-d-shalom.github.io/Nadeesha_UI.github.io) |
+| ✍️ Medium | [@nadeeshashalom1](https://medium.com/@nadeeshashalom1) |
+| 📞 Phone | +94 70 7328800 |
 
-<img src="./assets/footer.svg" alt="Build smart. Build scalable. Build for impact." width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### *"Build systems that are smart, scalable, and solve real problems."*
+
+⭐ **If you find my work interesting, feel free to star a repo or reach out!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A66C2&height=100&section=footer"/>
 
 </div>
