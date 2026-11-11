@@ -1,246 +1,212 @@
-<div align="center">
+# AI PROMPT — Premium GitHub Profile README
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%2F+ML+Researcher;Building+Systems+That+Scale" alt="Typing SVG" />
+Create a highly professional, visually impressive, and fully functional GitHub profile README for **Nadeesha Shalom**.
 
-<br/>
+## 1. Design References
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nadeesha-D-Shalom)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://nadeesha-d-shalom.github.io/Nadeesha_UI.github.io)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nadeeshashalom1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeeshashalom1@gmail.com)
+I have provided two reference images:
 
-![Profile Views](https://komarev.com/ghpvc/?username=nadeesha-d-shalom&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+- **Image 1:** A GitHub profile with a modern developer dashboard, profile information, GitHub statistics, contribution visualizations, and custom-designed components.
+- **Image 2:** My personal portfolio banner, which establishes my visual identity, typography, and color palette.
 
-</div>
+Use Image 1 as inspiration for the layout, visual hierarchy, and dashboard structure.
 
-<br/>
+Use Image 2 as the primary design reference for colors and branding.
 
-## 👋 About Me
+**Do not copy the purple, blue, or pink colors from Image 1.**
 
-```python
-class NadeeshaShalom:
-    def __init__(self):
-        self.name         = "Nadeesha D. Shalom"
-        self.role         = "Software Engineering Undergraduate @ SLIIT"
-        self.location     = "Sri Lanka 🇱🇰"
-        self.email        = "nadeeshashalom1@gmail.com"
-        self.focus        = ["Full-Stack Development", "AI/ML Research", "System Architecture"]
-        self.currently    = "Building an AI-powered LMS with Go, React & Python"
-        self.researching  = "Self-Regulating Learning Pressure (SRLP) — a novel AI training algorithm"
-        self.ask_me_about = ["Java", "Go", "Python", "Machine Learning", "REST APIs"]
+## 2. Design System
 
-    def philosophy(self):
-        return "Build systems that are smart, scalable, and solve real problems."
+Use the following color palette:
 
-me = NadeeshaShalom()
-```
+- Main background: `#0B1719`
+- Secondary background: `#102B29`
+- Card background: `#132824`
+- Dark emerald: `#174D3D`
+- Primary accent: `#36C88C`
+- Primary text: `#EAF4F0`
+- Secondary text: `#A8B8B2`
 
-<br/>
+Visual style:
 
-## 🛠️ Tech Stack
+- Premium dark developer dashboard
+- Minimalist and sophisticated
+- Emerald-green highlights and subtle gradients
+- Clean borders and refined spacing
+- Modern typography
+- Subtle technical and geometric patterns
+- Professional software engineering aesthetic
+- Consistent visual identity across every section
 
-<table>
-<tr>
-<td valign="top" width="50%">
+Avoid excessive decorations, emojis, oversized badges, and distracting animations.
 
-**Languages**
+## 3. Personal Identity
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+Name: **Nadeesha Shalom**
 
-**Frameworks & Platforms**
+Professional title:
+**Software Engineer | AI & Machine Learning**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+Description:
+"Building intelligent software solutions through engineering, data and AI."
 
-</td>
-<td valign="top" width="50%">
+University:
+Sri Lanka Institute of Information Technology (SLIIT)
 
-**AI & Machine Learning**
+Areas of interest:
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Full-Stack Development
+- Data Science
 
-**Databases & Cloud**
+Create a professional introduction that reflects my technical background without inventing professional achievements.
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+## 4. GitHub Profile Layout
 
-**Tools & IoT**
+Build the README with the following sections.
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+### Section A — Hero Banner
 
-</td>
-</tr>
-</table>
+Create a premium GitHub profile header inspired by my portfolio banner.
 
-<br/>
+Include:
 
-## 🚀 Featured Projects
+- NADEESHA SHALOM
+- Software Engineer | AI & Machine Learning
+- My professional description
+- A clean emerald-green accent
+- Subtle programming or technology visuals
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Use a wide banner suitable for GitHub README display.
 
-### 🎓 Student LMS with AI & ML
-*Industry-grade LMS with LLM integration · 2025–Present*
+### Section B — Developer Profile
 
-**Stack:** React · Go · Python (FastAPI) · MySQL · JWT · Ollama
+Create a two-column dashboard-style layout where technically possible.
 
-- JWT auth with role-based access (Student / Teacher / Admin / IT-Admin)
-- LLM-powered academic assistant for contextual Q&A on lessons & assignments
-- Microservice architecture: Go backend, Python AI services, modular React frontend
-- Hardened middleware validation and shared security utilities
+Left panel:
 
-</td>
-<td width="50%" valign="top">
+- Profile image
+- Name and professional title
+- University
+- Location: Sri Lanka
+- Technical interests
+- GitHub, LinkedIn, portfolio, and email links
 
-### 🧠 Self-Regulating Learning Pressure (SRLP)
-*Novel AI training-stability algorithm · 2026*
+Right panel:
 
-**Stack:** Python · PyTorch · NumPy · Matplotlib
+- GitHub overview
+- Public repositories
+- Contributions
+- Followers
+- Languages
+- GitHub activity
 
-- Designed a training-time algorithm to stabilize learning dynamics
-- Adaptive loss-feedback pressure control regulating gradient updates
-- Improved convergence stability vs. standard training baselines
-- Evaluated via loss variance, convergence behavior & accuracy trends
+Use real GitHub information rather than fabricated statistics.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Section C — GitHub Analytics Dashboard
 
-### 🩺 Diabetes Prediction — Logistic Regression
-*Clinical ML detection model · 2025*
+Create visually consistent cards for:
 
-**Stack:** Python · Scikit-learn · Pandas · Seaborn
+1. GitHub Statistics
+2. Most Used Languages
+3. Contribution Activity
+4. GitHub Streak
+5. Contribution Calendar
 
-- **83.45% accuracy** with tuned recall for diabetic patients
-- Handled class imbalance, feature engineering & preprocessing
-- Evaluated with ROC-AUC, Precision, Recall, F1, Confusion Matrix
+Use emerald-green charts with dark backgrounds.
 
-</td>
-<td width="50%" valign="top">
+Use reputable, maintained GitHub statistics services where appropriate. Avoid broken or unreliable widgets.
 
-### ✈️ Airline Reservation System
-*Full-stack real-time booking platform · 2025*
+### Section D — Technology Stack
 
-**Stack:** Java · Spring Boot · SQL Server · React · Tailwind
+Organize my technologies into professional categories.
 
-- Real-time flight search, booking & cancellation with role-based auth
-- Spring Data JPA for secure, efficient database operations
-- Admin dashboard for flights, passengers & bookings
+**Backend:** Java, Spring Boot, Spring Security, REST APIs, ASP.NET Core
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-### 🍵 TeaWeb — CEYMOS LANKA Showcase
-*Export platform for Ceylon tea & coconut products · 2025–2026*
+**AI / Data:** Python, Machine Learning, Deep Learning, Data Analytics
 
-**Stack:** React · PHP · MySQL · Bootstrap · Tailwind
+**Databases:** PostgreSQL, MySQL, Microsoft SQL Server
 
-- Responsive showcase deployed on GoDaddy shared hosting
-- Password-protected admin dashboard with full CRUD
-- Image upload, password recovery & contact form integration
+**Tools / DevOps:** Git, GitHub, GitHub Actions, Docker, Postman, VS Code, IntelliJ IDEA
 
-</td>
-<td width="50%" valign="top">
+Use consistent SVG technology icons or professional badges.
 
-<br/>
+### Section E — Featured Projects
 
-**Want to see more?**
-Check out the [full project list on GitHub →](https://github.com/Nadeesha-D-Shalom?tab=repositories)
+Create a premium project showcase with:
 
-</td>
-</tr>
-</table>
+- Project name
+- Short description
+- Technology stack
+- Repository link
+- Project status where verified
 
-<br/>
+Retrieve actual repositories from my GitHub account.
 
-## 📜 Certifications
+Do not fabricate projects, stars, or repository statistics.
 
-| Certification | Issuer | Year |
-|---|---|---|
-| 🤖 AI/ML Engineer — Stage 1 & 2 | SLIIT | 2025 |
-| ☕ Java OOP: Object-Oriented Programming | Udemy | 2025 |
-| 🎓 BSc (Hons) Software Engineering *(in progress)* | SLIIT | 2024–Present |
-| 📋 Diploma in Software Engineering | Pioneer Institute | 2020–2022 |
+### Section F — Contribution Activity
 
-<br/>
+Add a clean GitHub contribution visualization using my emerald-green design language.
 
-## 🏆 Achievements & Activities
+If using contribution graphs or SVG generators, ensure they work with GitHub's rendering restrictions.
 
-- 🏅 **Codefest 2025 Participant** — SLIIT's largest university tech competition (Innovative IoT Category)
-- 🎯 **Subcommittee Member** — Faculty of Computing Student Community (FCSC), SLIIT *(Mar 2025–Present)*
-- 🔨 **15+ personal projects** spanning Java, Go, PHP, MySQL, IoT & embedded systems
+### Section G — Connect With Me
 
-<br/>
+Create professional links for:
 
-## 📊 GitHub Stats
+- GitHub
+- LinkedIn
+- Portfolio
+- Email
 
-<div align="center">
+Use consistent styling and verified URLs.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nadeesha-d-shalom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeesha-d-shalom&layout=compact&theme=tokyonight&hide_border=true" />
+## 5. Technical Requirements
 
-<br/>
+This must be a **real GitHub profile README**, not a standalone HTML website.
 
-<img src="https://streak-stats.demolab.com?user=nadeesha-d-shalom&theme=tokyonight&hide_border=true" />
+Use:
 
-<br/>
+- GitHub Flavored Markdown
+- SVG graphics where appropriate
+- Compatible image and badge services
+- GitHub Actions only where genuinely required
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeesha-d-shalom&theme=tokyo-night&hide_border=true" />
+Important:
 
-</div>
+- GitHub README files do not support arbitrary JavaScript, CSS, or interactive web applications.
+- Recreate the dashboard appearance using Markdown tables, SVG images, and compatible generated assets.
+- Ensure the layout renders correctly in GitHub desktop and mobile views.
+- Avoid unsupported HTML/CSS.
+- Make assets work in both GitHub light and dark viewing modes where possible.
+- Do not expose API keys or access tokens.
+- Do not invent dynamic data.
 
-<br/>
+## 6. Required Deliverables
 
-## 📫 Let's Connect
+Provide:
 
-<div align="center">
+1. Complete production-ready `README.md`
+2. All custom SVG assets
+3. Recommended repository folder structure
+4. GitHub Actions workflow files, if needed
+5. Clear installation and configuration instructions
+6. Instructions for maintaining dynamic GitHub statistics
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [nadeeshashalom1@gmail.com](mailto:nadeeshashalom1@gmail.com) |
-| 💼 LinkedIn | [nadeesha-shalom-a5a2a4251](https://www.linkedin.com/in/nadeesha-shalom-a5a2a4251) |
-| 🌐 Portfolio | [nadeesha-d-shalom.github.io](https://nadeesha-d-shalom.github.io/Nadeesha_UI.github.io) |
-| ✍️ Medium | [@nadeeshashalom1](https://medium.com/@nadeeshashalom1) |
-| 📞 Phone | +94 70 7328800 |
+Use placeholder values only where my actual GitHub username, social URLs, or repository details are unavailable.
 
-</div>
+## 7. Final Quality Standard
 
-<br/>
+The final result should look like a carefully designed software engineer's personal developer dashboard.
 
-<div align="center">
+It must be visually comparable in quality to the first reference image while using the branding, typography, dark atmosphere, and emerald-green accents of my second portfolio image.
 
-### *"Build systems that are smart, scalable, and solve real problems."*
+Prioritize professional design, readability, accuracy, responsive rendering, and reliable GitHub compatibility.
 
-⭐ **If you find my work interesting, feel free to star a repo or reach out!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A66C2&height=100&section=footer"/>
-
-</div>
+**Do not generate a generic GitHub README with a collection of unrelated badges. Create a cohesive, branded developer profile experience.**
